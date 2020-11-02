@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/YGH0310/Navigation-page.git</id>
+    <id>https://github.com/YGH0310/Navigation-page</id>
     <title>我的书签导航</title>
-    <updated>2020-10-21T10:27:00.619Z</updated>
+    <updated>2020-11-02T09:10:15.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/YGH0310/Navigation-page.git"/>
-    <link rel="self" href="https://github.com/YGH0310/Navigation-page.git/atom.xml"/>
+    <link rel="alternate" href="https://github.com/YGH0310/Navigation-page"/>
+    <link rel="self" href="https://github.com/YGH0310/Navigation-page/atom.xml"/>
     <subtitle>Navigation-page</subtitle>
-    <logo>https://github.com/YGH0310/Navigation-page.git/images/avatar.png</logo>
-    <icon>https://github.com/YGH0310/Navigation-page.git/favicon.ico</icon>
+    <logo>https://github.com/YGH0310/Navigation-page/images/avatar.png</logo>
+    <icon>https://github.com/YGH0310/Navigation-page/favicon.ico</icon>
     <rights>All rights reserved 2020, 我的书签导航</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/YGH0310/Navigation-page.git/post/hello-gridea/</id>
-        <link href="https://github.com/YGH0310/Navigation-page.git/post/hello-gridea/">
+        <id>https://github.com/YGH0310/Navigation-page/post/hello-gridea/</id>
+        <link href="https://github.com/YGH0310/Navigation-page/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
